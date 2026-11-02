@@ -1,0 +1,8 @@
+* text=auto
+*.py   text eol=crlf
+*.md   text eol=crlf
+*.txt  text eol=crlf
+*.stl  binary
+*.step binary
+*.SLDPRT binary
+*.png  binary
